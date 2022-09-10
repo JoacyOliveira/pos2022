@@ -1,2 +1,2 @@
 # pos2022
-Repositório para pos graduação, voltado ao primeiro projeto
+Repositório para pos graduação, voltado ao primeiro projeto que sera desenvolvido.
